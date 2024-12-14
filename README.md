@@ -8,3 +8,4 @@ O objetivo é disponibilizar o vídeo com a apresentação do projeto.
 
 O arquivo **video_mvp_puc_rio_fullstack_basico** contem o vídeo com a apresentação do projeto.
 
+Link do video no YouTube https://youtu.be/fPraGEpLc3o
